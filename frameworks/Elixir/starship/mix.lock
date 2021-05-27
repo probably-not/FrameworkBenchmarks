@@ -1,0 +1,3 @@
+%{
+  "starship": {:hex, :starship, "0.0.1", "fa6644e882249548eddf07bca92323c6c95bba4dbac29c959f81ca89c24ada78", [:mix], [], "hexpm", "978edd39e42848ba404c3252dfe5c0a41395a6ca82cf73d202b9f20a5cb6f5e3"},
+}
